@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sarojaba/awesome-devblog-web/issues"
   },
-  "homepage": "https://github.com/sarojaba/awesome-devblog-web#readme"
+  "homepage": "https://github.com/sarojaba/awesome-devblog-web#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
 }
